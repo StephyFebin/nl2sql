@@ -1,2 +1,2 @@
 # nl2sql
-nl to sql conversion using autogen
+nl to sql conversion using autogen and RAG
